@@ -25,8 +25,7 @@ public class MainActivity extends AppCompatActivity {
             mediaCodec.setCallback(new MediaCodec.Callback() {
                 @Override
                 public void onInputBufferAvailable(MediaCodec codec, int index) {
-                    ByteBuffer buffer = codec.getInputBuffer(index);
-                    // Codec is ready; feed data here when available
+                    // Pipeline event-driven ingestion
                 }
 
                 @Override
