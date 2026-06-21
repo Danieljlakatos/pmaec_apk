@@ -1,0 +1,1 @@
+/root/.gradle/caches/8.9/transforms/36db607c42a665b66008babc9bfea92e/transformed/aapt2-8.7.0-12006047-linux/aapt2

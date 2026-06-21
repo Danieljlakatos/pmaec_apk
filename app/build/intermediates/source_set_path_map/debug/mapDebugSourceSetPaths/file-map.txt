@@ -1,0 +1,7 @@
+com.entropy.pmaec.app-pngs-0 /root/pmaec_apk/app/build/generated/res/pngs/debug
+com.entropy.pmaec.app-resValues-1 /root/pmaec_apk/app/build/generated/res/resValues/debug
+com.entropy.pmaec.app-packageDebugResources-2 /root/pmaec_apk/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.entropy.pmaec.app-packageDebugResources-3 /root/pmaec_apk/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.entropy.pmaec.app-debug-4 /root/pmaec_apk/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.entropy.pmaec.app-debug-5 /root/pmaec_apk/app/src/debug/res
+com.entropy.pmaec.app-main-6 /root/pmaec_apk/app/src/main/res

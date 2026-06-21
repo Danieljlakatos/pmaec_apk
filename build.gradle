@@ -1,0 +1,10 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Upgrade AGP to 8.7.0 for compatibility with current Gradle internals
+        classpath 'com.android.tools.build:gradle:8.7.0'
+    }
+}
